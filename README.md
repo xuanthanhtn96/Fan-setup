@@ -91,7 +91,7 @@ FanSetup là ứng dụng macOS native, nhẹ và dễ dùng, giúp bạn theo d
 
 Tải phiên bản mới nhất tại trang **Releases**:
 
-**→ [Tải FanSetup](https://github.com/daihieptn97/fan-setup/releases)**
+
 
 > Điều khiển quạt dựa trên giao diện phần cứng không được Apple công bố chính thức. Khả năng hỗ trợ tùy theo từng dòng máy; các máy không tương thích sẽ chỉ theo dõi được nhiệt độ.
 
